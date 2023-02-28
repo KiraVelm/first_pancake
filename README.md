@@ -1,2 +1,3 @@
 # first_pancake
 was born
+This code is my first creation on this platform. My journey continues here...
